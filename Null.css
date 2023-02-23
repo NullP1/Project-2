@@ -1,0 +1,29 @@
+div {
+    border: 6px black;
+    border-style: outset dashed;
+    margin: 10px;
+    height: 60px;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.midnight {
+    background-color: rgb(69, 69, 235);
+    border-color: rgb(255, 109, 116);
+    color: gold;
+    font-weight: bold;
+}
+
+.crimson {
+    background-color: red;
+    border-color: silver;
+    color: skyblue;
+    font-weight: bold;
+}
+
+.jade {
+    background-color: #00A36C;
+    border-color: midnightblue;
+    color: gold;
+    font-weight: bold;
+}
